@@ -1,0 +1,41 @@
+body {
+    background-color: #D8BFD8;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+header h1 {
+    text-align: center;
+    color: #333;
+}
+section {
+    margin: 20px 0;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 2px solid #8731ac;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #5ceda2;
+    color: white;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #2ce1a5;
+    border: 2px solid #e72b60;
+}
+
+#profilepic {
+    width: 180px;
+    height: 180px;
+    border: 2px solid #fbfcfb;
+}
